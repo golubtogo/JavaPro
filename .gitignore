@@ -27,3 +27,9 @@ bin/
 
 ### Mac OS ###
 .DS_Store
+
+# IDEA config files
+.idea/
+
+# GIT
+ .git
